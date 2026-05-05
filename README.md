@@ -1,7 +1,7 @@
 # Hi, I’m Nathan Luu! 👋
 <br>Currently majoring in Data Science at San Jose State University
 <br>Looking to break into AI/ML Engineering
-<br>Ask me about light novels or music!
+<br>Message me if you're interested in talking about music or light novels!!!
 
 <p align="left">
   <a href="mailto:NathanLuu1409@gmail.com">
