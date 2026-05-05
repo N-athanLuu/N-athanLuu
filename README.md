@@ -1,5 +1,6 @@
 # About Me 💬
-<br>Currently enrolled at San Jose State University
+<br>Currently majoring in Data Science at San Jose State University
+<br>Looking to break into AI/ML Engineering
 <br>Ask me about light novels or music!
 
 
