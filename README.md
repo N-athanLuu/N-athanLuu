@@ -3,7 +3,7 @@
 <br>Looking to break into AI/ML Engineering
 <br>Ask me about light novels or music!
 
-
+## Let’s connect 🔗
 <p align="left">
   <a href="mailto:NathanLuu1409@gmail.com">
     <img
