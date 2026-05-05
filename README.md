@@ -3,7 +3,6 @@
 <br>Looking to break into AI/ML Engineering
 <br>Ask me about light novels or music!
 
-## Let’s connect 🔗
 <p align="left">
   <a href="mailto:NathanLuu1409@gmail.com">
     <img
@@ -56,4 +55,5 @@
 ![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
+Lets connect 😼
 
